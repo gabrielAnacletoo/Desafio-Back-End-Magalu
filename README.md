@@ -87,5 +87,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
-- Seu Nome - [LinkedIn](https://linkedin.com/in/seu-perfil)
-- Email: seu-email@example.com
+- Seu Nome - [LinkedIn](https://www.linkedin.com/in/gabriel-anacletoo/)
+- Email: gabrielanacleto159@live.com
